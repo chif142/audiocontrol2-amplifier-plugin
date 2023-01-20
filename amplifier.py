@@ -1,5 +1,5 @@
 
-"""amplifier. Plugin for audiocontrol2 to control an external amplifier
+"""amplifier.py. Plugin for HifiBerryOs to control an external amplifier
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
